@@ -1,0 +1,12 @@
+.input-form {
+    margin-bottom: 20px;
+  }
+  
+  .input-form input,
+  .input-form select {
+    margin-right: 10px;
+  }
+  
+  .input-form button {
+    margin-top: 10px;
+  }
